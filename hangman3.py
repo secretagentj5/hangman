@@ -14,7 +14,6 @@ for _ in range(word_length):
 end_of_game=False
 while not end_of_game:
     guess = input("Guess a letter: ").lower()
-
     #Check guessed letter
     for position in range(word_length):
         letter = chosen_word[position]
