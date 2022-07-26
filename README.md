@@ -5,7 +5,7 @@ For implementation of lists (2d array)
 
 Rules/steps:-
 1)you will get a random word blanks specifying number of alphabet in the word
- commit 
+
 2)you have to guess any correct alphabet in the word to level up till you win
 commit]
 3)every wrong guess will deduct a life out of 6 and it will hang the man
