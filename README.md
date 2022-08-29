@@ -7,6 +7,7 @@ Rules/steps:-
 
 
 
+
 2)you have to guess any correct alphabet in the word to level up till you win
 
 3)every wrong guess will deduct a life out of 6 and it will hang the man
