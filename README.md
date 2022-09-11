@@ -15,4 +15,5 @@ Rules/steps:-
 
 4)when you exhaust all the lifes, you lose!. If you guess all correct alphabet in the word, you win! 
 
+
 Go ahead and give it a try 😉
