@@ -18,6 +18,7 @@ for _ in range(word_length):
     
     
     
+    
     display+="_"
 print(display)
 guess = input("Guess a letter: ").lower()
