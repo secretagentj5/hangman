@@ -9,7 +9,6 @@ Rules/steps:-
 
 
 
-
 1)you will get a random word blanks specifying number of alphabet in the word
 
 2)you have to guess any correct alphabet in the word to level up till you win
